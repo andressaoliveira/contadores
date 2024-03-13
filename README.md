@@ -6,9 +6,9 @@ Esse repositório tem 3 contadores simples:
     <li> Formulário Formatura</li>
     <li> Pontos Sprint</li>
 </ul>
+<br><br>
 
-
-## Ficha RPG
+## - Ficha RPG
 
 Cria uma ficha com as características do personagem: Nome, Classe, Raça e Atributos (ex: Força, Destreza, Sabedoria, Inteligência...). 
 
@@ -26,7 +26,7 @@ No total, 10 pontos podem ser distribuídos entre os atributos.
 Quando o usuário pressiona o botão “enviar”, escreve na tela as informações do personagem criado. 
 <br><br>
 
-## Formulário Formatura
+## - Formulário Formatura
 
 Formulário com informações pessoais para festa dfe formatura:
 
@@ -44,7 +44,7 @@ Ao clicar no botão “Exibir lista” escreve na tela todos os alunos cadastrad
 Ao clicar no botão “Limpar lista” exclui todos os valores já adicionados.
 <br><br>
 
-## Pontos Sprint
+## - Pontos Sprint
 
 Um squad composto por 3 desenvolvedores consegue entregar 15 pontos distribuídos em diversas atividades. 
 
